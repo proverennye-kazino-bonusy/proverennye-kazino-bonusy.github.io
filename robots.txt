@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Host: proverennye-kazino-bonusy.github.io
+Sitemap: https://proverennye-kazino-bonusy.github.io/sitemap.xml
